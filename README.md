@@ -31,7 +31,7 @@ I'm working on small exercises and datasets to practice:
 
 ## 📫 Connect with Me
 
-- [LinkedIn]:https://www.linkedin.com/in/sudipta-ghosh-242006315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- [LinkedIn](https://www.linkedin.com/in/sudipta-ghosh-242006315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email:ghoshsudipta692@gmail.com
 
 Thanks for visiting — feel free to connect or follow along on my journey into data analytics! 🚀
